@@ -15,7 +15,7 @@ public enum StrengthType {
 
     HYPER_PERCEPTION("Strength lies in sensing weakness! Catching micro-expressions, the twitch of fear, the misstep. Nothing will go unnoticed!"),
 
-    INSTINCTUAL_FORCE("Power that comes from the gut. They dont calculate, they KNOW."),
+    INSTINCTUAL_FORCE("Power that comes from the gut. They don't calculate, they KNOW."),
 
     EARTHBORN_GRIT("Strength forged from hardship and survival. Unmoving. Unbreaking."),
 
@@ -27,7 +27,7 @@ public enum StrengthType {
 
     GRACEFUL_TORRENT("Beautiful, flowing technique that can snap into a deadly storm without warning!"),
 
-    TRICKSTER_FORCE("They weponize unpredictablility and misdirection. Never the strongest, always the last one standing."),
+    TRICKSTER_FORCE("They weaponize unpredictability and misdirection. Never the strongest, always the last one standing."),
 
     BLOODLUST_ELEGANCE("They find art in violence. It's not just a fight, it's a performance."),
 
